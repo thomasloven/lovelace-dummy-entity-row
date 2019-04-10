@@ -5,8 +5,6 @@ An entity row that displays only an icon and the name of an entity. No controls.
 
 # Installation instructions
 
-This card requires [card-tools](https://github.com/thomasloven/lovelace-card-tools) to be installed.
-
 For installation instructions [see this guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins).
 
 The recommended type of this plugin is: `js`
