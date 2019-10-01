@@ -7,15 +7,13 @@ An entity row that displays only an icon and the name of an entity. No controls.
 
 For installation instructions [see this guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins).
 
-The recommended type of this plugin is: `js`
+The recommended type of this plugin is: `module`.
 
-### If you are using [custom\_updater](https://github.com/custom-components/custom_updater):
 ```yaml
 resources:
-- url: /customcards/github/thomasloven/dummy-entity-row.js?track=true
-  type: js
+  url: /local/dummy-entity-row.js
+  type: module
 ```
-
 
 # Usage instructions
 
