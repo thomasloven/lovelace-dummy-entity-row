@@ -1,6 +1,8 @@
 dummy-entity-row
 ================
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+
 An entity row that displays only an icon and the name of an entity. No controls.
 
 # Installation instructions
