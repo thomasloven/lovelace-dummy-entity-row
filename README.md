@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Please check out [template-entity-row](https://github.com/thomasloven/lovelace-template-entity-row) instead.
+
+---
+
 dummy-entity-row
 ================
 
